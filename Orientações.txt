@@ -1,0 +1,7 @@
+*criar um novo repositório;
+*clonar o repositório $git clone https://github.com/Goes-amanda/desafio-dio.git
+*criar um arquivo TXT;
+* add o documento a pasta ao local ($git add . ou $git add -a), pois se der um $git status, vai dar erro 
+*verificar se foi add a pasta usando o comando $git status
+*agora fazer um commit para add a versão atualizada ao repositório na nuvem ($git commit -m "Inclusão da anotações do desafio"
+*e para subir os dados fazer um push $ git push origin main
